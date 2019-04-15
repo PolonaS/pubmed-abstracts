@@ -1,0 +1,3308 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875648</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0046</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>197</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Feb</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug and alcohol dependence</Title>
+                <ISOAbbreviation>Drug Alcohol Depend</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association between polygenic risk for tobacco or alcohol consumption and liability to licit and illicit substance use in young Australian adults.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>271-279</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0376-8716(18)30601-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drugalcdep.2019.01.015</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Co-morbid substance use is very common. Despite a historical focus using genetic epidemiology to investigate comorbid substance use and misuse, few studies have examined substance-substance associations using polygenic risk score (PRS) methods.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Using summary statistics from the largest substance use GWAS to date (258,797- 632,802 subjects), GWAS and Sequencing Consortium of Alcohol and Nicotine use (GSCAN), we constructed PRSs for smoking initiation (PRS-SI), age of initiation of regular smoking (PRS-AI), cigarettes per day (PRS-CPD), smoking cessation (PRS-SC), and drinks per week (PRS-DPW). We then estimated the fixed effect of individual PRSs on 22 lifetime substance use and substance use disorder phenotypes collected in an independent sample of 2463 young Australian adults using genetic restricted maximal likelihood (GREML) in Genome-wide Complex Trait Analysis (GCTA), separately in females, males and both sexes together.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">After accounting for multiple testing, PRS-SI significantly explained variation in the risk of cocaine (0.67%), amphetamine (1.54%), hallucinogens (0.72%), ecstasy (1.66%) and cannabis initiation (0.97%), as well as DSM-5 alcohol use disorder (0.72%). PRS-DPW explained 0.75%, 0.59% and 0.90% of the variation of cocaine, amphetamine and ecstasy initiation respectively. None of the 22 phenotypes including emergent classes of substance use were significantly predicted by PRS-AI, PRS-CPD, and PRS-SC.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">To our knowledge, this is the first study to report significant genetic overlap between the polygenic risks for smoking initiation and alcohol consumption and the risk of initiating major classes of illicit substances. PRSs constructed from large discovery GWASs allows the detection of novel genetic associations.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Lun-Hsien</ForeName>
+                    <Initials>LH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genetic Epidemiology, QIMR Berghofer Medical Research Institute, Brisbane, Australia; Faculty of Medicine, the University of Queensland, Brisbane, Australia. Electronic address: Lun-Hsien.Chang@qimrberghofer.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Couvy-Duchesne</LastName>
+                    <ForeName>Baptiste</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genetic Epidemiology, QIMR Berghofer Medical Research Institute, Brisbane, Australia; Institute for Molecular Bioscience, the University of Queensland, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Mengzhen</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Minnesota Twin Cities, Minneapolis, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Medland</LastName>
+                    <ForeName>Sarah E</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genetic Epidemiology, QIMR Berghofer Medical Research Institute, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verhulst</LastName>
+                    <ForeName>Brad</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Michigan State University, East Lansing, MI, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benotsch</LastName>
+                    <ForeName>Eric G</ForeName>
+                    <Initials>EG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Psychology Department, Virginia Commonwealth University, VA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hickie</LastName>
+                    <ForeName>Ian B</ForeName>
+                    <Initials>IB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Brain and Mind Centre, University of Sydney, Sydney, New South Wales, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Nicholas G</ForeName>
+                    <Initials>NG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genetic Epidemiology, QIMR Berghofer Medical Research Institute, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gillespie</LastName>
+                    <ForeName>Nathan A</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genetic Epidemiology, QIMR Berghofer Medical Research Institute, Brisbane, Australia; Department of Psychology, Michigan State University, East Lansing, MI, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>GSCAN Consortium</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Drug Alcohol Depend</MedlineTA>
+            <NlmUniqueID>7513587</NlmUniqueID>
+            <ISSNLinking>0376-8716</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Addiction</Keyword>
+            <Keyword MajorTopicYN="N">Genetics</Keyword>
+            <Keyword MajorTopicYN="N">Polygenic risk</Keyword>
+            <Keyword MajorTopicYN="N">Twins</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875648</ArticleId>
+            <ArticleId IdType="pii">S0376-8716(18)30601-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drugalcdep.2019.01.015</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875641</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2213-1582</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>NeuroImage. Clinical</Title>
+                <ISOAbbreviation>Neuroimage Clin</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Deep/mixed cerebral microbleeds are associated with cognitive dysfunction through thalamocortical connectivity disruption: The Taizhou Imaging Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101749</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2213-1582(19)30099-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nicl.2019.101749</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cerebral microbleeds (CMBs) are considered to be risk factors for cognitive dysfunction. The specific pathology and clinical manifestations of CMBs are different based on their locations. We investigated the association between CMBs at different locations and cognitive dysfunction and explored the potential underlying pathways in a rural Han Chinese population.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We used baseline data from 562 community-dwelling adults (55-65 years old) in the Taizhou Imaging Study between 2013 and 2015. All individuals underwent multimodal brain magnetic resonance imaging (MRI) and 444 subjects completed neuropsychological tests: the Mini-Mental Status Examination and the Montreal Cognitive Assessment. Multinomial logistic regression was used to estimate the association between CMBs and cognitive dysfunction. The volume of brain regions and white matter microstructure were analyzed using Freesurfer and tract-based spatial statistics, respectively.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">CMBs were detected in 104 individuals (18.5%) in our study. Multinomial logistic regression found deep/mixed CMBs were associated with global cognitive dysfunction (OR 3.52; 95% CI 1.21 to 10.26), whereas lobar CMBs (OR 1.76; 95% CI 0.56 to 5.53) were not. Quantification of multimodal brain MRI showed that deep/mixed CMBs were accompanied by decreased thalamic volume and loss of fractional anisotropy of bilateral anterior thalamic radiations.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Deep/mixed CMBs were associated with cognitive dysfunction in this Chinese cross-sectional study. Disruption of thalamocortical connectivity might be a potential pathway underlying this relationship.</AbstractText>
+                <CopyrightInformation>Copyright © 2019. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yingzhe</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Huashan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Yanfeng</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Genetic Engineering and the Collaborative Innovation Center for Genetics and Development, School of Life Sciences, Fudan University, Shanghai, China; Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suo</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, School of Public Health, Fudan University, Shanghai, China; Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yuan</LastName>
+                    <ForeName>Ziyu</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Kelin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Data Science and Institute for Big Data, Collaborative Innovation Center for Genetics and Development, Fudan University, Shanghai, China; Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Qi</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Huashan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Weijun</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Huashan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Kexun</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, School of Public Health, Fudan University, Shanghai, China; Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Zhen</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, School of Public Health, Fudan University, Shanghai, China; Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tian</LastName>
+                    <ForeName>Weizhong</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Taizhou People's Hospital, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Taixing Disease Control and Prevention Center, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Shuyuan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Embryo-Fetal Original Adult Disease, International Peace Maternity and Child Health Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, China; Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ye</LastName>
+                    <ForeName>Weimin</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden; Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Qiang</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Huashan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Genetic Engineering and the Collaborative Innovation Center for Genetics and Development, School of Life Sciences, Fudan University, Shanghai, China; Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China; Human Phenome Institute, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cui</LastName>
+                    <ForeName>Mei</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Huashan Hospital, Fudan University, Shanghai, China. Electronic address: cuimei@fudan.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Xingdong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Genetic Engineering and the Collaborative Innovation Center for Genetics and Development, School of Life Sciences, Fudan University, Shanghai, China; Fudan University Taizhou Institute of Health Sciences, Taizhou, Jiangsu, China; Human Phenome Institute, Fudan University, Shanghai, China. Electronic address: xingdongchen@fudan.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Neuroimage Clin</MedlineTA>
+            <NlmUniqueID>101597070</NlmUniqueID>
+            <ISSNLinking>2213-1582</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cerebral microbleeds</Keyword>
+            <Keyword MajorTopicYN="N">Cognitive impairment</Keyword>
+            <Keyword MajorTopicYN="N">Multimodal imaging</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875641</ArticleId>
+            <ArticleId IdType="pii">S2213-1582(19)30099-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.nicl.2019.101749</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875639</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-5069</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>93</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Epilepsy &amp; behavior : E&amp;B</Title>
+                <ISOAbbreviation>Epilepsy Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Phase clustering in transcranial magnetic stimulation-evoked EEG responses in genetic generalized epilepsy and migraine.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>102-112</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1525-5050(18)30759-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.yebeh.2019.01.029</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Epilepsy and migraine are paroxysmal neurological conditions associated with disturbances of cortical excitability. No useful biomarkers to monitor disease activity in these conditions are available. Phase clustering was previously described in electroencephalographic (EEG) responses to photic stimulation and may be a potential epilepsy biomarker.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of this study was to investigate EEG phase clustering in response to transcranial magnetic stimulation (TMS), compare it with photic stimulation in controls, and explore its potential as a biomarker of genetic generalized epilepsy or migraine with aura.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">People with (possible) juvenile myoclonic epilepsy (JME), migraine with aura, and healthy controls underwent single-pulse TMS with concomitant EEG recording during the interictal period. We compared phase clustering after TMS with photic stimulation across the groups using permutation-based testing.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We included eight people with (possible) JME (five off medication, three on), 10 with migraine with aura, and 37 controls. The TMS and photic phase clustering spectra showed significant differences between those with epilepsy without medication and controls. Two phase clustering-based indices successfully captured these differences between groups. One participant was tested multiple times. In this case, the phase clustering-based indices were inversely correlated with the dose of antiepileptic medication. Phase clustering did not differ between people with migraine and controls.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We present methods to quantify phase clustering using TMS-EEG and show its potential value as a measure of brain network activity in genetic generalized epilepsy. Our results suggest that the higher propensity to phase clustering is not shared between genetic generalized epilepsy and migraine.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bauer</LastName>
+                    <ForeName>Prisca R</ForeName>
+                    <Initials>PR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stichting Epilepsie Instellingen Nederland (SEIN), Achterweg 5, 2103 SW Heemstede, the Netherlands; NIHR University College London Hospitals Biomedical Research Centre, UCL Queen Square Institute of Neurology, London WC1N 3BG, UK. Electronic address: prisca.bauer@inserm.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Helling</LastName>
+                    <ForeName>Robert M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stichting Epilepsie Instellingen Nederland (SEIN), Achterweg 5, 2103 SW Heemstede, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perenboom</LastName>
+                    <ForeName>Matthijs J L</ForeName>
+                    <Initials>MJL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Leiden University Medical Centre, Albinusdreef 2, 2333 ZA Leiden, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopes da Silva</LastName>
+                    <ForeName>Fernando H</ForeName>
+                    <Initials>FH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center of Neurosciences, Swammerdam Institute of Life Sciences, University of Amsterdam, P.O. Box 94215, 1090 GE, the Netherlands; Instituto Superior Técnico, University of Lisbon, 1049-001 Lisbon, Portugal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tolner</LastName>
+                    <ForeName>Else A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Leiden University Medical Centre, Albinusdreef 2, 2333 ZA Leiden, the Netherlands; Department of Human Genetics, Leiden University Medical Centre, Albinusdreef 2, 2333 ZA Leiden, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrari</LastName>
+                    <ForeName>Michel D</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, Leiden University Medical Centre, Albinusdreef 2, 2333 ZA Leiden, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sander</LastName>
+                    <ForeName>Josemir W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stichting Epilepsie Instellingen Nederland (SEIN), Achterweg 5, 2103 SW Heemstede, the Netherlands; NIHR University College London Hospitals Biomedical Research Centre, UCL Queen Square Institute of Neurology, London WC1N 3BG, UK; Chalfont Centre for Epilepsy, Chalfont St Peter SL9 0RJ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Visser</LastName>
+                    <ForeName>Gerhard H</ForeName>
+                    <Initials>GH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stichting Epilepsie Instellingen Nederland (SEIN), Achterweg 5, 2103 SW Heemstede, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalitzin</LastName>
+                    <ForeName>Stiliyan N</ForeName>
+                    <Initials>SN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Stichting Epilepsie Instellingen Nederland (SEIN), Achterweg 5, 2103 SW Heemstede, the Netherlands; Image Sciences Institute, University Medical Center Utrecht, P.O. Box 85500, 3508 GA Utrecht, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Epilepsy Behav</MedlineTA>
+            <NlmUniqueID>100892858</NlmUniqueID>
+            <ISSNLinking>1525-5050</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biomarker</Keyword>
+            <Keyword MajorTopicYN="N">Excitability</Keyword>
+            <Keyword MajorTopicYN="N">Juvenile myoclonic epilepsy</Keyword>
+            <Keyword MajorTopicYN="N">Phase synchronization</Keyword>
+            <Keyword MajorTopicYN="N">TMS–EEG</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875639</ArticleId>
+            <ArticleId IdType="pii">S1525-5050(18)30759-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.yebeh.2019.01.029</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875610</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2589-0042</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>iScience</Title>
+                <ISOAbbreviation>iScience</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Circadian Clock Protein CRY1 Is a Negative Regulator of HIF-1α.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>284-304</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2589-0042(19)30061-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.isci.2019.02.027</ELocationID>
+            <Abstract>
+                <AbstractText>The circadian clock and the hypoxia-signaling pathway are regulated by an integrated interplay of positive and negative feedback limbs that incorporate energy homeostasis and carcinogenesis. We show that the negative circadian regulator CRY1 is also a negative regulator of hypoxia-inducible factor (HIF). Mechanistically, CRY1 interacts with the basic-helix-loop-helix domain of HIF-1α via its tail region. Subsequently, CRY1 reduces HIF-1α half-life and binding of HIFs to target gene promoters. This appeared to be CRY1 specific because genetic disruption of CRY1, but not CRY2, affected the hypoxia response. Furthermore, CRY1 deficiency could induce cellular HIF levels, proliferation, and migration, which could be reversed by CRISPR/Cas9- or short hairpin RNA-mediated HIF knockout. Altogether, our study provides a mechanistic explanation for genetic association studies linking a disruption of the circadian clock with hypoxia-associated processes such as carcinogenesis.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 The Author(s). Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dimova</LastName>
+                    <ForeName>Elitsa Y</ForeName>
+                    <Initials>EY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biochemistry and Molecular Medicine and Biocenter Oulu, University of Oulu, P.O. Box 3000, 90014 Oulu, Finland. Electronic address: elitsa.dimova@oulu.fi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jakupovic</LastName>
+                    <ForeName>Mirza</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, University of Kaiserslautern, 67663 Kaiserslautern, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kubaichuk</LastName>
+                    <ForeName>Kateryna</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biochemistry and Molecular Medicine and Biocenter Oulu, University of Oulu, P.O. Box 3000, 90014 Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mennerich</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biochemistry and Molecular Medicine and Biocenter Oulu, University of Oulu, P.O. Box 3000, 90014 Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chi</LastName>
+                    <ForeName>Tabughang Franklin</ForeName>
+                    <Initials>TF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biochemistry and Molecular Medicine and Biocenter Oulu, University of Oulu, P.O. Box 3000, 90014 Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tamanini</LastName>
+                    <ForeName>Filippo</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Genetics, Erasmus University Medical Center, Wytemaweg 80, 3015CN Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oklejewicz</LastName>
+                    <ForeName>Małgorzata</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Genetics, Erasmus University Medical Center, Wytemaweg 80, 3015CN Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hänig</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Novartis Pharma GmbH, 97082 Würzburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Byts</LastName>
+                    <ForeName>Nadiya</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biochemistry and Molecular Medicine and Biocenter Oulu, University of Oulu, P.O. Box 3000, 90014 Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mäkelä</LastName>
+                    <ForeName>Kari A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biocenter Oulu, Department of Physiology, University of Oulu, 90014 Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herzig</LastName>
+                    <ForeName>Karl-Heinz</ForeName>
+                    <Initials>KH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biocenter Oulu, Department of Physiology, University of Oulu, 90014 Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koivunen</LastName>
+                    <ForeName>Peppi</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biochemistry and Molecular Medicine and Biocenter Oulu, University of Oulu, P.O. Box 3000, 90014 Oulu, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chaves</LastName>
+                    <ForeName>Ines</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Genetics, Erasmus University Medical Center, Wytemaweg 80, 3015CN Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Horst</LastName>
+                    <ForeName>Gijsbertus</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Genetics, Erasmus University Medical Center, Wytemaweg 80, 3015CN Rotterdam, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kietzmann</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biochemistry and Molecular Medicine and Biocenter Oulu, University of Oulu, P.O. Box 3000, 90014 Oulu, Finland. Electronic address: thomas.kietzmann@oulu.fi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>iScience</MedlineTA>
+            <NlmUniqueID>101724038</NlmUniqueID>
+            <ISSNLinking>2589-0042</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biochemistry</Keyword>
+            <Keyword MajorTopicYN="N">Biological Sciences</Keyword>
+            <Keyword MajorTopicYN="N">Cell Biology</Keyword>
+            <Keyword MajorTopicYN="N">Molecular Biology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875610</ArticleId>
+            <ArticleId IdType="pii">S2589-0042(19)30061-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.isci.2019.02.027</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875586</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-033X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>57</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in structural biology</Title>
+                <ISOAbbreviation>Curr. Opin. Struct. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rational design of genetically encoded singlet oxygen photosensitizing proteins.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>56-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0959-440X(18)30127-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.sbi.2019.01.025</ELocationID>
+            <Abstract>
+                <AbstractText>Reactive oxygen species (ROS), such as the superoxide anion, the hydroxyl radical and singlet oxygen, can influence cellular processes in many ways. However, the molecular mechanisms of ROS action in cells are still poorly understood. As such, we need to develop tools that can better elucidate ROS behavior in the dynamic environment of a cell. Optogenetics provides one approach to this end. Using a genetically encoded protein-encased photosensitizer, one could produce a given ROS with a controllable yield in a specific intracellular domain or compartment. A palette of ROS sensitizing protein derivatives has emerged and, in this review, we use information gleaned from recent studies to discuss properties that define a 'good' singlet oxygen photosensitizing protein.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Westberg</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Aarhus University, DK-8000, Aarhus, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Etzerodt</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology and Genetics, Aarhus University, DK-8000, Aarhus, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ogilby</LastName>
+                    <ForeName>Peter R</ForeName>
+                    <Initials>PR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Aarhus University, DK-8000, Aarhus, Denmark. Electronic address: progilby@chem.au.dk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Curr Opin Struct Biol</MedlineTA>
+            <NlmUniqueID>9107784</NlmUniqueID>
+            <ISSNLinking>0959-440X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875586</ArticleId>
+            <ArticleId IdType="pii">S0959-440X(18)30127-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.sbi.2019.01.025</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875536</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-8952</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>130</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Feb</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology</Title>
+                <ISOAbbreviation>Clin Neurophysiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Central fatigue and attentional processing in Parkinson's disease: An event-related potentials study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>692-700</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1388-2457(19)30049-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clinph.2019.01.017</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To verify whether central fatigue in patients with Parkinson's disease (PD) is associated with the presence of a more severe selective cognitive impairment.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Twenty-four PD patients without fatigue-PDnF, 11 with fatigue-PDF and 32 healthy volunteers underwent a P300 novelty task that elicits both the P3a and the P3b components.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">P3b latency was significantly longer in both PDF and PDnF than in controls. P3b amplitudes were comparable between groups. P3a latency and P3a amplitude were respectively significantly longer and lower in PDF than in either PDnF or controls.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The ability to discriminate the significant target stimulus, which requires the integrity of the dorsal attentional network and top-down control mechanisms, is compromised in parkinsonian patients irrespective of the presence of fatigue. PDF exhibited a difficulty in attentional orienting to salient novel stimuli, a bottom-up attentional control mechanism that is related to the functioning of the ventral attention network.</AbstractText>
+                <AbstractText Label="SIGNIFICANCE" NlmCategory="CONCLUSIONS">Fatigue seems to be specifically related to an impairment in the processing of novel stimuli, which is an essential part of adaptive decision-making behavior.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 International Federation of Clinical Neurophysiology. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pauletti</LastName>
+                    <ForeName>Caterina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Neurosciences, Sapienza University of Rome, Viale dell'Università 30, 00185 Rome, Italy; Vaclav Vojta Rehabilitation Center, Via Pincherle 186, 00146 Rome, Italy. Electronic address: caterina.pauletti@uniroma1.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mannarelli</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Neurosciences, Sapienza University of Rome, Viale dell'Università 30, 00185 Rome, Italy. Electronic address: daniela.mannarelli@uniroma1.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Locuratolo</LastName>
+                    <ForeName>Nicoletta</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Neurosciences, Sapienza University of Rome, Viale dell'Università 30, 00185 Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Currà</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical-Surgical Sciences and Biotechnologies, A. Fiorini Hospital, Terracina, LT, Sapienza University of Rome, Polo Pontino, Latina, Italy. Electronic address: antonio.curra@uniroma1.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marinelli</LastName>
+                    <ForeName>Lucio</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, Maternal and Child Health, University of Genova, Italy; IRCCS Ospedale Policlinico San Martino, Genova, Italy. Electronic address: lucio.marinelli@unige.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fattapposta</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Neurosciences, Sapienza University of Rome, Viale dell'Università 30, 00185 Rome, Italy. Electronic address: francesco.fattapposta@uniroma1.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Clin Neurophysiol</MedlineTA>
+            <NlmUniqueID>100883319</NlmUniqueID>
+            <ISSNLinking>1388-2457</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Attention</Keyword>
+            <Keyword MajorTopicYN="N">Cognitive functions</Keyword>
+            <Keyword MajorTopicYN="N">ERPs</Keyword>
+            <Keyword MajorTopicYN="N">Fatigue</Keyword>
+            <Keyword MajorTopicYN="N">P300</Keyword>
+            <Keyword MajorTopicYN="N">Parkinson’s disease</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875536</ArticleId>
+            <ArticleId IdType="pii">S1388-2457(19)30049-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.clinph.2019.01.017</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875492</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1484</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>284</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Atherosclerosis</Title>
+                <ISOAbbreviation>Atherosclerosis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association of ideal cardiovascular health metrics with serum uric acid, inflammation and atherogenic index of plasma: A population-based survey.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>44-49</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0021-9150(18)31378-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.atherosclerosis.2018.09.016</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND AIMS" NlmCategory="OBJECTIVE">We aimed to evaluate the link between inflammatory score [consisting of C-reactive protein (CRP) and white blood cells], serum uric acid (SUA) and atherogenic index of plasma (AIP) and the cardiovascular health (CVH) score.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We used the cross-sectional National Health and Nutrition Examination Survey database. Statistical analyses accounted for the survey design and sample weights.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, there were 23,004 participants (mean age = 47.2 years, 46.5% males). Participants with an ideal CVH level had the highest ratio of poverty to income (3.62%, p &lt; 0.001), as well as lower levels of CRP, SUA and AIP (p &lt; 0.001 for all comparisons). In adjusted linear regression, a significant negative association was observed between inflammatory score (β = -0.052, p &lt; 0.001), SUA (β = -0.041, p &lt; 0.001) and AIP (β = -0.039, p &lt; 0.001) and CVH score, i.e. participants with a better (greater) CVH score had a lower inflammatory score. Results from adjusted logistic regression showed reduction in the likelihood of &quot;high-risk atherosclerosis&quot; (defined as AIP ≥0.21) [intermediate: odds ratio (OR) = 0.90, 95% confidence interval (CI):0.85-0.95, ideal: OR = 0.81, 95%CI: 0.74-0.88] and &quot;high CVD risk&quot; (defined as CRP ≥3 mg/l) [intermediate: OR = 0.86, 95%CI:0.73-0.98, ideal: OR = 0.82, 95%CI:0.69-0.95] across the categories of CVH.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our findings highlight that CVH metrics were associated with inflammatory score, SUA and AIP. Furthermore, participants with a better CVH score had a lower CVD risk. These results reinforce the importance of implementing healthy behaviours as proposed by the American Heart Association. If confirmed in clinical trials, this knowledge may have implications for CVD prevention and management.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mazidi</LastName>
+                    <ForeName>Mohsen</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology and Biological Engineering, Food and Nutrition Science, Chalmers University of Technology, SE-412 96, Gothenburg, Sweden. Electronic address: moshen@genetics.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Katsiki</LastName>
+                    <ForeName>Niki</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Second Propedeutic Department of Internal Medicine, Medical School, Aristotle University of Thessaloniki, Hippokration Hospital, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikhailidis</LastName>
+                    <ForeName>Dimitri P</ForeName>
+                    <Initials>DP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Biochemistry, Royal Free Campus, University College London Medical School, University College London (UCL), London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Banach</LastName>
+                    <ForeName>Maciej</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hypertension, Chair of Nephrology and Hypertension, Medical University of Lodz, Poland; Polish Mother's Memorial Hospital Research Institute (PMMHRI), Lodz, Poland; Cardiovascular Research Centre, University of Zielona Gora, Zielona Gora, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Atherosclerosis</MedlineTA>
+            <NlmUniqueID>0242543</NlmUniqueID>
+            <ISSNLinking>0021-9150</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Atherogenic index of plasma</Keyword>
+            <Keyword MajorTopicYN="N">C-reactive protein</Keyword>
+            <Keyword MajorTopicYN="N">Cardiovascular health</Keyword>
+            <Keyword MajorTopicYN="N">Serum uric acid</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875492</ArticleId>
+            <ArticleId IdType="pii">S0021-9150(18)31378-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.atherosclerosis.2018.09.016</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875489</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-0341</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>531</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Virology</Title>
+                <ISOAbbreviation>Virology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Local structural changes of the influenza A virus ribonucleoprotein complex by single mutations in the specific residues involved in efficient genome packaging.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>126-140</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0042-6822(19)30069-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.virol.2019.03.004</ELocationID>
+            <Abstract>
+                <AbstractText>The influenza A virus genome consists of eight single-stranded negative-sense RNA segments. The noncoding regions located at the 3'- and 5'- ends of each segment are necessary for genome packaging, and the terminal coding regions are required to precisely bundle the eight segments. However, the nucleotide residues important for genome bundling are not defined. Here, we introduced premature termination codons in the hemagglutinin (HA) or matrix protein 2 (M2) gene and constructed virus libraries containing random sequences in the terminal coding regions. Using these virus libraries, we identified nucleotide residues involved in efficient virus propagation. Viral genome packaging was impaired in viruses that contained single mutations at these identified residues. Furthermore, these single mutations altered the local structure of the viral ribonucleoprotein complex. Our results show that specific nucleotide residues in the viral protein coding region are involved in forming the precise structure of the viral ribonucleoprotein complex.</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Takizawa</LastName>
+                    <ForeName>Naoki</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Virology, Institute of Microbial Chemistry (BIKAKEN), Tokyo, Japan. Electronic address: takizawan@bikaken.or.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ogura</LastName>
+                    <ForeName>Yoshitoshi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bacteriology, Faculty of Medical Sciences, Kyushu University, Fukuoka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujita</LastName>
+                    <ForeName>Yoko</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Ultrastructural Virology, Institute for Frontier Life and Medical Sciences, Kyoto University, Kyoto, Japan; Laboratory of Ultrastructural Virology, Division of Integrated Life Science, Graduate School of Biostudies, Kyoto University, Kyoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noda</LastName>
+                    <ForeName>Takeshi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Ultrastructural Virology, Institute for Frontier Life and Medical Sciences, Kyoto University, Kyoto, Japan; Laboratory of Ultrastructural Virology, Division of Integrated Life Science, Graduate School of Biostudies, Kyoto University, Kyoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shigematsu</LastName>
+                    <ForeName>Hideki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Life Science Research Infrastructure Group, RIKEN SPring-8 Center, Hyogo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hayashi</LastName>
+                    <ForeName>Tetsuya</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bacteriology, Faculty of Medical Sciences, Kyushu University, Fukuoka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurokawa</LastName>
+                    <ForeName>Ken</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Information Biology, National Institute of Genetics, Shizuoka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Virology</MedlineTA>
+            <NlmUniqueID>0110674</NlmUniqueID>
+            <ISSNLinking>0042-6822</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Genome packaging</Keyword>
+            <Keyword MajorTopicYN="N">Influenza virus</Keyword>
+            <Keyword MajorTopicYN="N">RNA structure</Keyword>
+            <Keyword MajorTopicYN="N">VRNP structure</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875489</ArticleId>
+            <ArticleId IdType="pii">S0042-6822(19)30069-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.virol.2019.03.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875458</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2151-4658</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Arthritis care &amp; research</Title>
+                <ISOAbbreviation>Arthritis Care Res (Hoboken)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparing Proxy, Adolescent and Adult Assessments of Functional Ability in Adolescents with Juvenile Idiopathic Arthritis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/acr.23877</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">In paediatric research, investigators rely on proxy reports of outcome, such as the proxy-completed Childhood Health Assessment Questionnaire (P-CHAQ), to assess function in JIA. As children mature, they may self-complete the adult Health Assessment Questionnaire (HAQ) or the un-validated adolescent-specific CHAQ (A-CHAQ). It is unclear how these measures compare and whether they are directly interchangeable.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Adolescents aged 11 to 17 years participating in the Childhood Arthritis Prospective Study, a UK multicentre inception cohort, were included. In a CAPS sub-study, adolescents self-completed the A-CHAQ and HAQ and proxies simultaneously completed the P-CHAQ at baseline and one year. Correlation and agreement between scores were assessed at baseline. Agreement and ability to similarly classify clinically important changes over time were assessed at one year following initial presentation to rheumatology.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">107 adolescents (A-CHAQ and HAQ) or their proxies (P-CHAQ) had completed all three measures at baseline. Median age at diagnosis was 13 years and 61% were female. Although the three scores demonstrated strong correlations (r&gt;0.8), they were not completely interchangeable, with agreement ranging between 70 and 80%. There was similar agreement between the changes in scores between baseline and one year. Using P-CHAQ minimal clinically important cut-offs, the A-CHAQ and HAQ similarly classified 80 to 90% of adolescents as having improved or worsened.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Whilst there is relatively high agreement and similar classification of change between HAQ and two CHAQ scores, these are not completely interchangeable. This impacts the comparison of function when measured in different ways over the lifespan. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shoop-Worrall</LastName>
+                    <ForeName>Stephanie J W</ForeName>
+                    <Initials>SJW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Arthritis Research UK Centre for Epidemiology, Stopford Building, The University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Health Informatics, The University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hyrich</LastName>
+                    <ForeName>Kimme L</ForeName>
+                    <Initials>KL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Arthritis Research UK Centre for Epidemiology, Stopford Building, The University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR Manchester Biomedical Research Centre, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verstappen</LastName>
+                    <ForeName>Suzanne Mm</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Arthritis Research UK Centre for Epidemiology, Stopford Building, The University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR Manchester Biomedical Research Centre, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sergeant</LastName>
+                    <ForeName>Jamie C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Arthritis Research UK Centre for Epidemiology, Stopford Building, The University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Biostatistics, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baildam</LastName>
+                    <ForeName>Eileen</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Paediatric Rheumatology, Alder Hey Children's NHS Foundation Trust, Liverpool, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chieng</LastName>
+                    <ForeName>Alice</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Royal Manchester Children's Hospital, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davidson</LastName>
+                    <ForeName>Joyce</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Royal Hospital for Children, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Royal Hospital for Sick Children, Edinburgh, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foster</LastName>
+                    <ForeName>Helen</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Great North Children's Hospital, Newcastle Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ioannou</LastName>
+                    <ForeName>Yiannis</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Arthritis Research UK Centre for Adolescent Rheumatology, GOS Institute of Child Health, University College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McErlane</LastName>
+                    <ForeName>Flora</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Great North Children's Hospital, Newcastle Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wedderburn</LastName>
+                    <ForeName>Lucy R</ForeName>
+                    <Initials>LR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Arthritis Research UK Centre for Adolescent Rheumatology, GOS Institute of Child Health, University College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Paediatric Rheumatology, Great Ormond Street Hospital NHS Foundation Trust, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR Great Ormond Street Hospital Biomedical Research Centre, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thomson</LastName>
+                    <ForeName>Wendy</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR Manchester Biomedical Research Centre, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Arthritis Research UK Centre for Genetics and Genomics, Stopford Building, The University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McDonagh</LastName>
+                    <ForeName>Janet E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NIHR Manchester Biomedical Research Centre, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Musculoskeletal Research, Faculty of Medical and Human Sciences, The University of Manchester, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Manchester Academic Health Science Centre, Manchester, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Arthritis Care Res (Hoboken)</MedlineTA>
+            <NlmUniqueID>101518086</NlmUniqueID>
+            <ISSNLinking>2151-464X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adolescent Rheumatology</Keyword>
+            <Keyword MajorTopicYN="N">Functional Ability</Keyword>
+            <Keyword MajorTopicYN="N">Juvenile Idiopathic Arthritis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875458</ArticleId>
+            <ArticleId IdType="doi">10.1002/acr.23877</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30875429</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1367-4811</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioinformatics (Oxford, England)</Title>
+                <ISOAbbreviation>Bioinformatics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Bayesian model for single cell transcript expression analysis on MERFISH data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>995-1001</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/bioinformatics/bty718</ELocationID>
+            <Abstract>
+                <AbstractText Label="MOTIVATION" NlmCategory="BACKGROUND">Multiplexed error-robust fluorescence in-situ hybridization (MERFISH) is a recent technology to obtain spatially resolved gene or transcript expression profiles in single cells for hundreds to thousands of genes in parallel. So far, no statistical framework to analyze MERFISH data is available.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We present a Bayesian model for single cell transcript expression analysis on MERFISH data. We show that the model successfully captures uncertainty in MERFISH data and eliminates systematic biases that can occur in raw RNA molecule counts obtained with MERFISH. Our model accurately estimates transcript expression and additionally provides the full probability distribution and credible intervals for each transcript. We further show how this enables MERFISH to scale towards the whole genome while being able to control the uncertainty in obtained results.</AbstractText>
+                <AbstractText Label="AVAILABILITY AND IMPLEMENTATION" NlmCategory="METHODS">The presented model is implemented on top of Rust-Bio (Köster, 2016) and available open-source as MERFISHtools (https://merfishtools.github.io). It can be easily installed via Bioconda (Grüning et al., 2018). The entire analysis performed in this paper is provided as a fully reproducible Snakemake (Köster and Rahmann, 2012) workflow via Zenodo (https://doi.org/10.5281/zenodo.752340).</AbstractText>
+                <AbstractText Label="SUPPLEMENTARY INFORMATION" NlmCategory="BACKGROUND">Supplementary data are available at Bioinformatics online.</AbstractText>
+                <CopyrightInformation>© The Author(s) 2018. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Köster</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Algorithms for Reproducible Bioinformatics, Genome Informatics, Institute of Human Genetics, University Hospital Essen, University of Duisburg-Essen, Essen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Molecular and Cellular Oncology, Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centrum Wiskunde and Informatica, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Myles</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Molecular and Cellular Oncology, Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>X Shirley</ForeName>
+                    <Initials>XS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute, Harvard T.H. Chan School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Science and Technology, Tongji University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioinformatics</MedlineTA>
+            <NlmUniqueID>9808944</NlmUniqueID>
+            <ISSNLinking>1367-4803</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875429</ArticleId>
+            <ArticleId IdType="pii">5078469</ArticleId>
+            <ArticleId IdType="doi">10.1093/bioinformatics/bty718</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30875412</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Discoveries beyond BRCA1/2: Multigene testing in an Asian multi-ethnic cohort suspected of hereditary breast cancer syndrome in the real world.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0213746</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0213746</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Due to historically low uptake of genetic testing, the mutational spectrum of Asians with Hereditary Breast Cancer (HBC) is not well understood. This study sought to understand the incidence and spectrum of germline mutations in Asian patients with suspected HBC in a clinic setting.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">1056 patients with suspected HBC were seen in our Cancer (CA) Genetics Clinic from 2000-2017, of which 460 underwent genetic testing.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 460 probands tested, 93% were female, 61% Chinese, 90% had prior CA, with 19% (77/414) having ≥2 primary CA. Median age at CA-diagnosis was 43y (17-83); 70% had Breast CA (BC) and 25% Ovarian CA (OC). 34% had young-onset BC, 8% bilateral BC, and 4% BC/OC. Majority had family history of BC (53%) or OC (20%). 57% underwent multigene testing (14-49 genes), 34% targeted testing, and 8% predictive testing. 30% were found to have a pathogenic mutation: 80% in BRCA1/2 (8 novel mutations noted). Of 33 non-BRCA1/2 pathogenic mutations detected, 61% were in 11 BC genes while 39% were in non-BC genes suggestive of alternative CA syndromes. Testing beyond BRCA1/2 impacted management for 15.9% (22/138) of carriers, but extensive testing identified variants of uncertain significance (VUS) in up to 44.5% of probands. Restricting multigene panel testing to a guideline-based 20-gene panel including Lynch Syndrome genes was found to be most optimal, detecting 94.6% of mutation carriers while reducing VUS rate to 21.5%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Evolution of CA Genetics testing strategy to a multigene approach facilitated detection of pathogenic mutations in non-BRCA1/2 genes and aided management. Guideline-based panel testing is feasible and can be offered in Asians with suspected HBC.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ow</LastName>
+                    <ForeName>Samuel Guan Wei</ForeName>
+                    <Initials>SGW</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2229-7971</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology-Oncology, National University Cancer Institute, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ong</LastName>
+                    <ForeName>Pei Yi</ForeName>
+                    <Initials>PY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology-Oncology, National University Cancer Institute, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Soo-Chin</ForeName>
+                    <Initials>SC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5835-6419</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology-Oncology, National University Cancer Institute, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Science Institute, National University of Singapore, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875412</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0213746</ArticleId>
+            <ArticleId IdType="pii">PONE-D-18-29770</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30875406</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of coordinately regulated microRNA-gene networks that differ in baboons discordant for LDL-cholesterol.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0213494</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0213494</ELocationID>
+            <Abstract>
+                <AbstractText Label="RATIONALE" NlmCategory="BACKGROUND">Plasma low-density lipoprotein cholesterol (plasma LDL-C), vascular endothelial cells and peripheral blood mononuclear cells (PBMCs), particularly monocytes, play key roles in initiating atherosclerosis, the primary cause of cardiovascular disease (CVD). Although the mechanisms underlying development of atherosclerosis are not well understood, LDL-C is known to influence expression of endothelial microRNAs (miRNAs) and gene-targets of miRNAs to promote cell senescence. However, the impact of LDL-C on expression of PBMC miRNAs and miRNA targeted genes in response to an atherogenic diet is not known. In this study, we used unbiased methods to identify coordinately responsive PBMC miRNA- gene networks that differ between low and high LDL-C baboons when fed a high-cholesterol, high-fat (HCHF) diet.</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Using RNA Seq, we quantified PBMC mRNAs and miRNAs from half-sib baboons discordant for LDL-C plasma concentrations (low LDL-C, n = 3; high LDL-C, n = 3) before and after a 7-week HCHF diet challenge. For low LDL-C baboons, 626 genes exhibited significant change in expression (255 down-regulated, 371 up-regulated) in response to the HCHF diet, and for high LDL-C baboons 379 genes exhibited significant change in expression (162 down-regulated, 217 up-regulated) in response to the HCHF diet. We identified 494 miRNAs identical to human miRNAs and 47 novel miRNAs. Fifty miRNAs were differentially expressed in low LDL-C baboons (21 up- and 29 down-regulated) and 20 in high LDL-C baboons (11 up- and 9 down-regulated) in response to the HCHF diet. Among the differentially expressed miRNAs were miR-221/222 and miR-34a-3p, which were down-regulated, and miR-148a/b-5p, which was up-regulated. In addition, gene-targets of these miRNAs, VEGFA, MAML3, SPARC, and DMGDH, were inversely expressed and are central hub genes in networks and signaling pathways that differ between low and high LDL-C baboon HCHF diet response.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We have identified coordinately regulated HCHF diet-responsive PBMC miRNA-gene networks that differ between baboons discordant for LDL-C concentrations. Our findings provide potential insights into molecular mechanisms underlying initiation of atherosclerosis where LDL-C concentrations influence expression of specific miRNAs, which in turn regulate expression of genes that play roles in initiation of lesions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Karere</LastName>
+                    <ForeName>Genesio M</ForeName>
+                    <Initials>GM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8126-6377</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, Texas Biomedical Research Institute, San Antonio, TX, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Wake Forest School of Medicine, Winston-Salem, NC, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glenn</LastName>
+                    <ForeName>Jeremy P</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, Texas Biomedical Research Institute, San Antonio, TX, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Birnbaum</LastName>
+                    <ForeName>Shifra</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, Texas Biomedical Research Institute, San Antonio, TX, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia</LastName>
+                    <ForeName>Roy</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, Texas Biomedical Research Institute, San Antonio, TX, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>VandeBerg</LastName>
+                    <ForeName>John L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Human Genetics and South Texas Diabetes and Obesity Institute, School of Medicine,The University of Texas Rio Grande Valley, Brownsville/Harlingen/Edinburg, TX, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cox</LastName>
+                    <ForeName>Laura A</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, Texas Biomedical Research Institute, San Antonio, TX, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Wake Forest School of Medicine, Winston-Salem, NC, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Southwest National Primate Research Center, Texas Biomedical Research Institute, San Antonio, TX, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875406</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0213494</ArticleId>
+            <ArticleId IdType="pii">PONE-D-17-44429</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875370</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7404</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS genetics</Title>
+                <ISOAbbreviation>PLoS Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Loss of function mutations in essential genes cause embryonic lethality in pigs.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1008055</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pgen.1008055</ELocationID>
+            <Abstract>
+                <AbstractText>Lethal recessive alleles cause pre- or postnatal death in homozygous affected individuals, reducing fertility. Especially in small size domestic and wild populations, those alleles might be exposed by inbreeding, caused by matings between related parents that inherited the same recessive lethal allele from a common ancestor. In this study we report five relatively common (up to 13.4% carrier frequency) recessive lethal haplotypes in two commercial pig populations. The lethal haplotypes have a large effect on carrier-by-carrier matings, decreasing litter sizes by 15.1 to 21.6%. The causal mutations are of different type including two splice-site variants (affecting POLR1B and TADA2A genes), one frameshift (URB1), and one missense (PNKP) variant, resulting in a complete loss-of-function of these essential genes. The recessive lethal alleles affect up to 2.9% of the litters within a single population and are responsible for the death of 0.52% of the total population of embryos. Moreover, we provide compelling evidence that the identified embryonic lethal alleles contribute to the observed heterosis effect for fertility (i.e. larger litters in crossbred offspring). Together, this work marks specific recessive lethal variation describing its functional consequences at the molecular, phenotypic, and population level, providing a unique model to better understand fertility and heterosis in livestock.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Derks</LastName>
+                    <ForeName>Martijn F L</ForeName>
+                    <Initials>MFL</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1317-5654</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Breeding and Genomics, Wageningen University &amp; Research, Wageningen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gjuvsland</LastName>
+                    <ForeName>Arne B</ForeName>
+                    <Initials>AB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4391-3411</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Norsvin SA, Hamar, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bosse</LastName>
+                    <ForeName>Mirte</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-2433-2483</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Breeding and Genomics, Wageningen University &amp; Research, Wageningen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopes</LastName>
+                    <ForeName>Marcos S</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Topigs Norsvin Research Center, Beuningen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Topigs Norsvin, Curitiba, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Son</LastName>
+                    <ForeName>Maren</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4892-3387</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Norsvin SA, Hamar, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harlizius</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Topigs Norsvin Research Center, Beuningen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Beatrice F</ForeName>
+                    <Initials>BF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Breeding and Genomics, Wageningen University &amp; Research, Wageningen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamland</LastName>
+                    <ForeName>Hanne</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Norsvin SA, Hamar, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grindflek</LastName>
+                    <ForeName>Eli</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Norsvin SA, Hamar, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Groenen</LastName>
+                    <ForeName>Martien A M</ForeName>
+                    <Initials>MAM</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-0484-4545</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Breeding and Genomics, Wageningen University &amp; Research, Wageningen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Megens</LastName>
+                    <ForeName>Hendrik-Jan</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Animal Breeding and Genomics, Wageningen University &amp; Research, Wageningen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Genet</MedlineTA>
+            <NlmUniqueID>101239074</NlmUniqueID>
+            <ISSNLinking>1553-7390</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>MSL, BH, ABG, EG, MvS, and HH are employees of Topigs Norsvin Research Center, a research institute closely related to one of the funders (Topigs Norsvin). All authors declare that the results are presented in full and as such present no conflict of interest. The other Breed4Food partners Cobb Europe, CRV, Hendrix Genetics, declare to have no competing interests for this study.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875370</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1008055</ArticleId>
+            <ArticleId IdType="pii">PGENETICS-D-18-02080</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30875295</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2050-084X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>eLife</Title>
+                <ISOAbbreviation>Elife</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Environmentally-induced epigenetic conversion of a piRNA cluster.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7554/eLife.39842</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">e39842</ELocationID>
+            <Abstract>
+                <AbstractText>Transposable element (TE) activity is repressed in animal gonads by PIWI-interacting RNAs (piRNAs) produced by piRNA clusters. Current models in flies propose that germinal piRNA clusters are functionally defined by the maternal inheritance of piRNAs produced during the previous generation. Taking advantage of an inactive, but ready to go, cluster of <i>P</i>-element derived transgene insertions in <i>Drosophila melanogaster</i>, we show here that raising flies at high temperature (29°C) instead of 25°C triggers the stable conversion of this locus from inactive into actively producing functional piRNAs. The increase of antisense transcripts from the cluster at 29°C combined with the requirement of transcription of euchromatic homologous sequences, suggests a role of double stranded RNA in the production of <i>de novo</i> piRNAs. This report describes the first case of the establishment of an active piRNA cluster by environmental changes in the absence of maternal inheritance of homologous piRNAs.</AbstractText>
+                <AbstractText Label="Editorial note" NlmCategory="UNASSIGNED">This article has been through an editorial process in which the authors decide how to respond to the issues raised during peer review. The Reviewing Editor's assessment is that all the issues have been addressed (see decision letter).</AbstractText>
+                <CopyrightInformation>© 2019, Casier et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Casier</LastName>
+                    <ForeName>Karine</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6825-8057</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Biologie du Développement, UMR7622, Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delmarre</LastName>
+                    <ForeName>Valérie</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Biologie du Développement, UMR7622, Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gueguen</LastName>
+                    <ForeName>Nathalie</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GReD, Université Clermont Auvergne, CNRS, INSERM, BP 10448, Clermont-Ferrand, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hermant</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Biologie du Développement, UMR7622, Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Viodé</LastName>
+                    <ForeName>Elise</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-5058-2710</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Biologie du Développement, UMR7622, Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vaury</LastName>
+                    <ForeName>Chantal</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GReD, Université Clermont Auvergne, CNRS, INSERM, BP 10448, Clermont-Ferrand, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ronsseray</LastName>
+                    <ForeName>Stéphane</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Biologie du Développement, UMR7622, Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brasset</LastName>
+                    <ForeName>Emilie</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>GReD, Université Clermont Auvergne, CNRS, INSERM, BP 10448, Clermont-Ferrand, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Teysset</LastName>
+                    <ForeName>Laure</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-7413-1850</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Biologie du Développement, UMR7622, Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boivin</LastName>
+                    <ForeName>Antoine</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8671-1599</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Biologie du Développement, UMR7622, Sorbonne Université, CNRS, Institut de Biologie Paris-Seine, Paris, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GEO</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>GSE116122</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>SFI20131200470</GrantID>
+                    <Agency>Fondation ARC pour la Recherche sur le Cancer</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>DEP20131128532</GrantID>
+                    <Agency>Fondation pour la Recherche Médicale</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>plastisipi</GrantID>
+                    <Agency>Agence Nationale de la Recherche</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>EME1223</GrantID>
+                    <Agency>Pierre and Marie Curie University</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Elife</MedlineTA>
+            <NlmUniqueID>101579614</NlmUniqueID>
+            <ISSNLinking>2050-084X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">D. melanogaster</Keyword>
+            <Keyword MajorTopicYN="N">epigenetics</Keyword>
+            <Keyword MajorTopicYN="N">genetics</Keyword>
+            <Keyword MajorTopicYN="N">genomics</Keyword>
+            <Keyword MajorTopicYN="N">germline</Keyword>
+            <Keyword MajorTopicYN="N">heterochromatin</Keyword>
+            <Keyword MajorTopicYN="N">non coding small RNA</Keyword>
+            <Keyword MajorTopicYN="N">temperature</Keyword>
+            <Keyword MajorTopicYN="N">transposable element</Keyword>
+        </KeywordList>
+        <CoiStatement>KC, VD, NG, CH, EV, CV, SR, EB, LT, AB No competing interests declared</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875295</ArticleId>
+            <ArticleId IdType="doi">10.7554/eLife.39842</ArticleId>
+            <ArticleId IdType="pii">39842</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875283</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-5644</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical microbiology</Title>
+                <ISOAbbreviation>J. Med. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Oral microbial dysbiosis in patients with Kostmann syndrome.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1099/jmm.0.000964</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The oral microbiome is maintained by host- and microbe-derived factors. A shift in microbial composition, as a result of diseases related to the immune system, is the most important step in the development of oral and dental diseases. The aim of this study was to investigate the oral microbial composition of patients with Kostmann syndrome, who have severe neutropenia, compared with healthy children.</AbstractText>
+                <AbstractText Label="METHODOLOGY" NlmCategory="METHODS">A group of nine Kostmann syndrome patients and a group of nine healthy controls participated. After clinical investigation, DNA from stimulated saliva specimens was examined by high-throughput sequencing of the V3-V4 hypervariable region of the 16S rRNA gene using Illumina sequencing. The QIIME software package was used for 16 S rRNA amplicon analysis, while the Greengenes database was used for taxonomic classification.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The periodontal pocket depths, plaque indices and bleeding-on-probing percentages and caries status on the deciduous teeth of the patients with Kostmann syndrome were statistically higher than those for the healthy controls. Patients with Kostmann syndrome had significantly lower bacterial diversity as compared to the controls. The presence of Firmicutes was statistically higher in patients with Kostmann syndrome, while that for Proteobacteria was higher in samples from the healthy controls (P&lt;0.05). Streptococcus, Rothia, Granulicatella, Actinomyces, and genera from the family Gemellaceae were present as the core microbiome (abundance &gt;1 % in at least 75  % of samples) in all groups, whereas the genus Porphyromonas was only detected as a member of the core microbiome in Kostmann patients.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The evidence of lower bacterial diversity and differences in microbial profile for patients with Kostmann syndrome not only shows the impact of immune system-related diseases on oral microbiota, but also endorses the ecological plaque hypothesis proposed for the aetiology of oral diseases such as dental caries and periodontitis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Topcuoglu</LastName>
+                    <ForeName>Nursen</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Basic Sciences, Faculty of Dentistry, Istanbul University, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erdem</LastName>
+                    <ForeName>Arzu Pınar</ForeName>
+                    <Initials>AP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Department of Pedodontics, Faculty of Dentistry, Istanbul University, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karacan</LastName>
+                    <ForeName>Ilker</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3 Department of Molecular Biology of Genetics, Faculty of Engineering and Natural Sciences, Istanbul Medeniyet University, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kulekci</LastName>
+                    <ForeName>Guven</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Basic Sciences, Faculty of Dentistry, Istanbul University, Istanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Med Microbiol</MedlineTA>
+            <NlmUniqueID>0224131</NlmUniqueID>
+            <ISSNLinking>0022-2615</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875283</ArticleId>
+            <ArticleId IdType="doi">10.1099/jmm.0.000964</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875282</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1465-2099</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of general virology</Title>
+                <ISOAbbreviation>J. Gen. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A recombinant canine distemper virus expressing interleukin-7 enhances humoral immunity.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1099/jgv.0.001247</ELocationID>
+            <Abstract>
+                <AbstractText>Canine distemper (CD) causes gastrointestinal and respiratory and/or neurological signs and results in high morbidity and mortality, remaining a threat to carnivores around the world. Live-attenuated vaccines have been widely used to reduce the number of CD outbreaks, but efforts are still needed to improve immune efficiency. Interleukin-7 (IL-7) has been reported to boost host immunity by recruiting follicle helper T (TFH) or germinal center (GC) B cells. Here, we constructed a recombinant canine distemper virus (rCDV) by reverse genetics and evaluated the properties of six intergenic sites for insertion of a foreign gene. We found that the P/M intergenic region was the optimal site to insert a foreign gene into the CDV genome. The effect of overexpressing IL-7 on rCDV immunogenicity was then evaluated in a mouse model. We found that mice immunized with rCDV-IL7 could not significantly enhance the maturation of dendritic cells (DCs) but significantly facilitated the generation of TFH cells, GC B cells and plasma cells (PCs), as well as the formation of GCs, consequently enhancing the production of CDV-specific neutralizing antibodies and total IgG. Together, these results suggested that the overexpression of IL-7 by rCDV could enhance humoral responses by activating the TFH-GC B-PC axis, which will help to improve vaccines for CD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3​College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Preventive Veterinary Medicine of Hubei Province, Huazhong Agriculture University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Ming</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3​College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Preventive Veterinary Medicine of Hubei Province, Huazhong Agriculture University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yan</LastName>
+                    <ForeName>Xiao-Geng</ForeName>
+                    <Initials>XG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3​College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Preventive Veterinary Medicine of Hubei Province, Huazhong Agriculture University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yi-Xi</ForeName>
+                    <Initials>YX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3​College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Preventive Veterinary Medicine of Hubei Province, Huazhong Agriculture University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cui</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3​College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Preventive Veterinary Medicine of Hubei Province, Huazhong Agriculture University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Huan-Chun</ForeName>
+                    <Initials>HC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3​College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Preventive Veterinary Medicine of Hubei Province, Huazhong Agriculture University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fu</LastName>
+                    <ForeName>Zhen-Fang</ForeName>
+                    <Initials>ZF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Preventive Veterinary Medicine of Hubei Province, Huazhong Agriculture University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>1​State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>4​Department of Pathology, University of Georgia, Athens, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3​College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Ling</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1​State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2​Key Laboratory of Preventive Veterinary Medicine of Hubei Province, Huazhong Agriculture University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>3​College of Veterinary Medicine, Huazhong Agricultural University, Wuhan, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Gen Virol</MedlineTA>
+            <NlmUniqueID>0077340</NlmUniqueID>
+            <ISSNLinking>0022-1317</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875282</ArticleId>
+            <ArticleId IdType="doi">10.1099/jgv.0.001247</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875273</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1531-2267</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physiological genomics</Title>
+                <ISOAbbreviation>Physiol. Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Gene expression variability - the other dimension in transcriptome analysis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1152/physiolgenomics.00128.2018</ELocationID>
+            <Abstract>
+                <AbstractText>Transcriptome sequencing is a powerful technique to study molecular changes that underlie the differences in physiological conditions and disease progression. A typical question that is posed in such studies is finding genes with significant changes between sample groups. In this respect expression variability is regarded as a nuisance factor that is primarily of technical origin and complicates the data analysis. However, it is becoming apparent that the biological variation in gene expression might be an important molecular phenotype that can affect physiological parameters. In this review we explore the recent literature on technical and biological variability in gene expression, sources of expression variability, (epi-) genetic hallmarks and evolutionary constraints in genes with robust and variable gene expression. We provide an overview of recent findings on effects of external cues, such as diet and aging on expression variability and on other biological phenomena that can be linked to it. We discuss metrics and tools that were developed for quantification of expression variability and highlight the importance of future studies in this direction. In order to assist the adoption of expression variability analysis, we also provide a detailed description and computer code, which can easily be utilized by other researchers. We also provide a re-analysis of recently published data to highlight the value of the analysis method.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Jong</LastName>
+                    <ForeName>Tristan V</ForeName>
+                    <Initials>TV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ERIBA, University of Groningen, UMC Groningen, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moshkin</LastName>
+                    <ForeName>Yuri M</ForeName>
+                    <Initials>YM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cytology and Genetics, Siberian Branch of RAS, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guryev</LastName>
+                    <ForeName>Victor</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ERIBA, University of Groningen, UMC Groningen, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Physiol Genomics</MedlineTA>
+            <NlmUniqueID>9815683</NlmUniqueID>
+            <ISSNLinking>1094-8341</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875273</ArticleId>
+            <ArticleId IdType="doi">10.1152/physiolgenomics.00128.2018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30875253</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-0257</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genetic testing and molecular biomarkers</Title>
+                <ISOAbbreviation>Genet Test Mol Biomarkers</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genetics Is Forging New Frontiers in Mental Health Care: A Patient-Centered Collaborative Approach Will Smooth the Journey.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>153-155</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/gtmb.2019.29043.sjt</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rich</LastName>
+                    <ForeName>Kelly</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Genetic Alliance, Washington, District of Columbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>2 Division of Human Genetics, The Ohio State University, Columbus, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Summers</LastName>
+                    <ForeName>Perry</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Genetic Alliance, Washington, District of Columbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Westreich</LastName>
+                    <ForeName>Anne Marie</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Genetic Alliance, Washington, District of Columbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genet Test Mol Biomarkers</MedlineTA>
+            <NlmUniqueID>101494210</NlmUniqueID>
+            <ISSNLinking>1945-0257</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875253</ArticleId>
+            <ArticleId IdType="doi">10.1089/gtmb.2019.29043.sjt</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875235</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1750-192X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Epigenomics</Title>
+                <ISOAbbreviation>Epigenomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome-wide miRNA methylome analysis in oral cancer: possible biomarkers associated with patient survival.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2217/epi-2018-0078</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The methylome associated with miRNA loci was investigated in oral cancer to explore tobacco specific methylation and potential biomarkers for patient survival.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Methylome data was generated from 16 pairs of cancer-normal tissues by reduced representation bisulfite sequencing method. Differentially methylated regions were identified using the DMAP pipeline. In silico validation and Kaplan-Meier survival analyses were performed on The Cancer Genome Atlas  data based on our miRNA methylome data.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 4310 unique differentially methylated regions, mapping to 144 miRNA loci, were identified. Three distinct groups of miRNAs were differentially methylated in cancer tissues from smokers, chewers and mixed habitués. Hypermethylation of miR-503, miR-200a/b, miR-320b and miR-489 was associated with worse 5-year survival.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Differential methylation patterns in miRNA loci are associated with poor survival underscoring their potential as predictive and prognostic biomarkers in oral cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Roshni</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Division of Health Science, University of Otago, Dunedin, Otago, MD 20892, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chatterjee</LastName>
+                    <ForeName>Aniruddha</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>HB Division, Fred Hutchinson Cancer Research Centre, Seattle, WA 98109-1024, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Das</LastName>
+                    <ForeName>Debasis</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Division of Health Science, University of Otago, Dunedin, Otago, MD 20892, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ray</LastName>
+                    <ForeName>Anindita</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Division of Health Science, University of Otago, Dunedin, Otago, MD 20892, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Richa</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Division of Health Science, University of Otago, Dunedin, Otago, MD 20892, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chattopadhyay</LastName>
+                    <ForeName>Esita</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Division of Health Science, University of Otago, Dunedin, Otago, MD 20892, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarkar</LastName>
+                    <ForeName>Navonil De</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Division of Health Science, University of Otago, Dunedin, Otago, MD 20892, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral &amp; Maxillofacial Pathology, Guru Nanak Institute of Dental Science &amp; Research, Kolkata, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eccles</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>HB Division, Fred Hutchinson Cancer Research Centre, Seattle, WA 98109-1024, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pal</LastName>
+                    <ForeName>Mousumi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Biomedical Genomics, Kalyani, 741251, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maitra</LastName>
+                    <ForeName>Arindam</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Human Genetics Unit, Indian Statistical Institute, 205 B.T. Road, Kolkata 700108, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Bidyut</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Division of Health Science, University of Otago, Dunedin, Otago, MD 20892, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Epigenomics</MedlineTA>
+            <NlmUniqueID>101519720</NlmUniqueID>
+            <ISSNLinking>1750-192X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">RRBS method</Keyword>
+            <Keyword MajorTopicYN="N">TCGA data</Keyword>
+            <Keyword MajorTopicYN="N">clinical implication</Keyword>
+            <Keyword MajorTopicYN="N">expression</Keyword>
+            <Keyword MajorTopicYN="N">miRNA methylome</Keyword>
+            <Keyword MajorTopicYN="N">oral cancer</Keyword>
+            <Keyword MajorTopicYN="N">pathway analysis</Keyword>
+            <Keyword MajorTopicYN="N">survival analysis</Keyword>
+            <Keyword MajorTopicYN="N">tobacco marker</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875235</ArticleId>
+            <ArticleId IdType="doi">10.2217/epi-2018-0078</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30875234</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1750-192X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Epigenomics</Title>
+                <ISOAbbreviation>Epigenomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DNA methylation signatures in mendelian developmental disorders as a diagnostic bridge between genotype and phenotype.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2217/epi-2018-0192</ELocationID>
+            <Abstract>
+                <AbstractText>Epigenetic and genetic mechanisms regulate the establishment and maintenance of gene expression in its proper context. Recent genome-wide mapping approaches have identified DNA methylation (DNAm) signatures in patients clinically diagnosed with syndromes manifesting as developmental disabilities with intellectual impairments. Here, we review recent studies in which these DNA methylation signatures have enabled highly sensitive and specific screening of such individuals and have clarified ambiguous cases where subjects present with genetic sequence variants of unknown clinical significance (VUS). We propose that these episignatures be considered as echoes and/or legacies of the initiating mutational events within proteins of the so-called epigenetic machinery. As well, we discuss approaches to directly confirm the functional consequences and the implications of these episignatures to patient management and treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sadikovic</LastName>
+                    <ForeName>Bekim</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Genetics Laboratory, Molecular Diagnostics Division, London Health Sciences Centre, London, ON, N6A 5W9, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology &amp; Laboratory Medicine, Western University, London, ON, N6A 3K7, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aref-Eshghi</LastName>
+                    <ForeName>Erfan</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Genetics Laboratory, Molecular Diagnostics Division, London Health Sciences Centre, London, ON, N6A 5W9, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology &amp; Laboratory Medicine, Western University, London, ON, N6A 3K7, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Levy</LastName>
+                    <ForeName>Michael A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Genetics Laboratory, Molecular Diagnostics Division, London Health Sciences Centre, London, ON, N6A 5W9, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology &amp; Laboratory Medicine, Western University, London, ON, N6A 3K7, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodenhiser</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Pediatrics, Biochemistry &amp; Oncology, Western University, London, ON, N6A 3K7, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Children's Health Research Institute &amp; Lawson Health Research Institute, London, ON, N6C 2V5, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>London Regional Cancer Program, Lawson Health Research Institute, London, ON, N6A 5W9, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Epigenomics</MedlineTA>
+            <NlmUniqueID>101519720</NlmUniqueID>
+            <ISSNLinking>1750-192X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">DNA methylation</Keyword>
+            <Keyword MajorTopicYN="N">clinical applications</Keyword>
+            <Keyword MajorTopicYN="N">developmental disability</Keyword>
+            <Keyword MajorTopicYN="N">epigenetics and disease</Keyword>
+            <Keyword MajorTopicYN="N">episignature</Keyword>
+            <Keyword MajorTopicYN="N">intellectual disability</Keyword>
+            <Keyword MajorTopicYN="N">microarray</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30875234</ArticleId>
+            <ArticleId IdType="doi">10.2217/epi-2018-0192</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
