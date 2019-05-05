@@ -18,7 +18,8 @@ def parse_abstracts(el, results=None):
         results = []
     for child in el:
         if child.tag == 'AbstractText':
-            results.append(child.text)
+            if child.text:
+                results.append(child.text)
         parse_abstracts(child, results)
     return results
 
@@ -53,25 +54,27 @@ def create_without_definition_file(id, abstracts):
 
 def parse():
     for article in root:
-        id = article.find("MedlineCitation").find("PMID").text
-        abstracts = parse_abstracts(article)
-        create_orig_file(id, abstracts)
-        abstracts_without_acronym = []
-        abstracts_without_definition = []
-        for abstract in abstracts:
-            sentences = abstract.split(". ")
-            for sentence in sentences:
-                pairs = extract_pairs(sentence)
-                abstract_without_acronym = abstract
-                abstract_without_definition = abstract
-                for pair in pairs:
-                    insert(id, pair["acronym"], pair["definition"])
-                    abstract_without_acronym = abstract_without_acronym.replace(pair["acronym"], "")
-                    abstract_without_definition = abstract_without_definition.replace(pair["definition"], "")
-                abstracts_without_acronym.append(abstract_without_acronym)
-                abstracts_without_definition.append(abstract_without_definition)
-        create_without_acronym_file(id, abstracts_without_acronym)
-        create_without_definition_file(id, abstracts_without_definition)
+        cit = article.find("MedlineCitation")
+        if cit:
+            id = cit.find("PMID").text
+            abstracts = parse_abstracts(article)
+            create_orig_file(id, abstracts)
+            abstracts_without_acronym = []
+            abstracts_without_definition = []
+            for abstract in abstracts:
+                sentences = abstract.split(". ")
+                for sentence in sentences:
+                    pairs = extract_pairs(sentence)
+                    abstract_without_acronym = abstract
+                    abstract_without_definition = abstract
+                    for pair in pairs:
+                        insert(id, pair["acronym"], pair["definition"])
+                        abstract_without_acronym = abstract_without_acronym.replace(pair["acronym"], "")
+                        abstract_without_definition = abstract_without_definition.replace(pair["definition"], "")
+                    abstracts_without_acronym.append(abstract_without_acronym)
+                    abstracts_without_definition.append(abstract_without_definition)
+            create_without_acronym_file(id, abstracts_without_acronym)
+            create_without_definition_file(id, abstracts_without_definition)
 
 
 def main():
