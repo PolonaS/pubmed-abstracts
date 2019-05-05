@@ -41,7 +41,6 @@ def extract_pairs(sentence):
 
         if len(acronym) > 0 or len(definition) > 0:
             if len(acronym) > 1 or len(definition) > 1:
-
                 next_c = sentence.find(")", c + 1)
                 if acronym.find("(") > -1 and next_c > -1:
                     acronym = sentence[(o + 1):next_c]
@@ -68,16 +67,14 @@ def extract_pairs(sentence):
                     if not has_capital(acronym):
                         acronym = ""  # delete invalid acronym
 
-                _acronym = acronym.strip()
-                _definition = definition.strip()
-
                 if is_valid_short_form(acronym):
-                    obj = match_pair(_acronym, _definition)
+                    obj = match_pair(acronym.strip(), definition.strip())
                     if obj is not None:
                         pairs.append({"acronym": obj["acronym"], "definition": obj["definition"]})
 
             # prepare to process the rest of the sentence after ")"
             sentence = sentence[(c + 1):]
+
         elif o > -1:
             sentence = sentence[(o + 1):]
 
